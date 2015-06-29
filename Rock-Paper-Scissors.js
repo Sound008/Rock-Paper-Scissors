@@ -9,5 +9,5 @@ function computerThink() {
 	else{
 		computerChoice = "scissors";
 	}
-};
+}
 
